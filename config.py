@@ -1,0 +1,10 @@
+MULTIPLE_OBJECT = 1
+REFLECTION = 2
+SINGLE_OBJECT = 3
+close_threshold = 12.
+sim_threshold = 0.15
+THREE_BOXES = 3
+TWO_BOXES = 2
+box_threshold = .15
+text_threshold = 0.13
+iou_threshold =0.7
