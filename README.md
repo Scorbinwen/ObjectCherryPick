@@ -1,9 +1,9 @@
-Check if multiple objects in a given image
-Solarized dark             |  Solarized Ocean
+Run eval.py to check if multiple objects in a given image
+single object             |  multiple object
 :-------------------------:|:-------------------------:
-![00011180_f772ede_b_pred](https://github.com/Scorbinwen/DesignCherryPick/assets/29889669/4f0a8179-ad76-4f9a-919a-40945ded611e) |  ![00011179_6f1aa27_b_pred](https://github.com/Scorbinwen/DesignCherryPick/assets/29889669/5cad0705-e268-4540-a113-e47f30bac3f1)
-single object: 
+ ![00010419_49c0b62_b_pred](https://github.com/Scorbinwen/DesignCherryPick/assets/29889669/088e6b95-846e-4484-aed2-8c6b80e24315)|  ![00009815_242d385_b_pred](https://github.com/Scorbinwen/DesignCherryPick/assets/29889669/99d37fd2-e957-4c83-93f4-055a6a38a19a)
 
-multiple object: 
+
+
 
 
