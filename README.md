@@ -5,10 +5,7 @@ single object             |  multiple object
 
 before Custom NMS             |  after Custom NMS
 :-------------------------:|:-------------------------:
-
-
-
- ![before](<img width="384" alt="image" src="https://github.com/user-attachments/assets/8f4770a2-07cf-4ebc-9736-484bc4eb2d96">)|![after](<img width="384" alt="image" src="https://github.com/user-attachments/assets/26d5a7a4-f939-4739-be65-29544add47ca">))
+![图片1](https://github.com/user-attachments/assets/dceb1280-ffbb-42db-a418-d560246abaa4)|![图片2](https://github.com/user-attachments/assets/9c35e25c-16b5-4568-b8a9-417b249f4736)
 
 
 
