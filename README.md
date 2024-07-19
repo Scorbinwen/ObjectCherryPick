@@ -1,5 +1,5 @@
 # DesignCherryPick
-> Detect if given image contains only one target object, it's based on pretrained multimodal object detection framework [GroundingDino](https://huggingface.co/docs/transformers/en/model_doc/grounding-dino)
+Detect if given image contains only one target object, it's based on pretrained multimodal object detection framework [GroundingDino](https://huggingface.co/docs/transformers/en/model_doc/grounding-dino)
 
 ## Quickstart
 run eval.py to detect given image:
