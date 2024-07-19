@@ -1,6 +1,9 @@
 # DesignCherryPick
 Detect if given image contains only one target object, it's based on pretrained multimodal object detection framework [GroundingDino](https://huggingface.co/docs/transformers/en/model_doc/grounding-dino)
 
+## Algorithm Description
+we use a Customized NMS to eliminate the low score bbox which is overdetected for one target object, e.g. the following single target object is detected by 3 bboxes:
+![图片1](https://github.com/user-attachments/assets/dceb1280-ffbb-42db-a418-d560246abaa4)
 ## Quickstart
 run eval.py to detect given image:
 > python eval.py
